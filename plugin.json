@@ -1,0 +1,12 @@
+{
+    "ID":"AD9D0296DA68414286CE122191FE9148",
+    "ActionKeyword":"str",
+    "Name":"ClipFormat",
+    "Description":"Format - strip,lowercase, uppercase, titlecase",
+    "Author":"Rando",
+    "Version":"1.0",
+    "Language":"python",
+    "Website":"https://github.com/Rand-o/",
+    "ExecuteFileName":"case.py",
+    "IcoPath": "icon.png"
+}
